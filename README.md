@@ -43,8 +43,10 @@ Jest is used to test the render() method of each shape class to ensure it return
 This application provides a simple and quick way to generate SVG logos through a command-line interface. By following the installation and usage instructions, you can create custom logos for your projects. The project is designed with an emphasis on code reusability and testing, ensuring reliability and ease of maintenance. This `README.md` provides a comprehensive guide to setting up, using, and testing your logo generator project. It includes sections on installation, usage, example SVGs, directory structure, class inheritance, and testing, making it easy for others to understand. 
 
 ## Screenshot 
+![alt text](<SVG Logo Preview.png>)
 
 ## Walkthrough Video 
+https://drive.google.com/file/d/1FEoYngK0TbGepwVOVxkrSRfnHZZvCJYY/view 
 
 > [!NOTE]  
 > Resources used for creating code. Referred back to class work for file format such as reviewing class recordings. Worked with peers and compared challenge template.
