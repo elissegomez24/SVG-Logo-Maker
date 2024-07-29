@@ -46,7 +46,7 @@ This application provides a simple and quick way to generate SVG logos through a
 ![alt text](<SVG Logo Preview.png>)
 
 ## Walkthrough Video 
-https://drive.google.com/file/d/1FEoYngK0TbGepwVOVxkrSRfnHZZvCJYY/view 
+https://drive.google.com/file/d/1w-5-YOsP51nsYR9XCH0JETL-sb4qhjAs/view 
 
 > [!NOTE]  
 > Resources used for creating code. Referred back to class work for file format such as reviewing class recordings. Worked with peers and compared challenge template.
